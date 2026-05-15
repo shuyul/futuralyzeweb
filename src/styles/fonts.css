@@ -1,0 +1,19 @@
+/* 杂志编辑部风格字体 */
+
+/* 中文标题 - 思源宋体 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&display=swap');
+
+/* 中文正文 - 思源黑体 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap');
+
+/* 英文标题 - Playfair Display */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400&display=swap');
+
+/* 英文正文 - Source Sans 3 */
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600&display=swap');
+
+/* 等宽字体 - JetBrains Mono (用于日期、编号、标签) */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* 现代无衬线 - Inter (副标题/正文) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
